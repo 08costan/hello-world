@@ -1,7 +1,16 @@
-# hello-world
+# hello-world : ReadMe
+
+Hello World!
+This is a test repository created after joining the Coursera class "The Data Scientist's Toolbox".
+
+# Markdown syntax examples
 
 ## This is a secondary heading
 ### This is a tertiary heading
-Hi Humans!
-Hubot there, I like node.js and Coffeescript (that's what I am made of!).
-I've had tacos on the moon and find them far superior  to Earth tacos.
+
+The following is an unordered list (as HTML markup ul):
+* First item in the list
+* Second item in the list
+* Third item in the list
+
+
